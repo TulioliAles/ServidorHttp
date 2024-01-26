@@ -1,0 +1,16 @@
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.exe
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.deps.json
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.runtimeconfig.json
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.runtimeconfig.dev.json
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.dll
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\ref\Servidor_HTTP.dll
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\bin\Debug\net5.0\Servidor_HTTP.pdb
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.csprojAssemblyReference.cache
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.AssemblyInfoInputs.cache
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.AssemblyInfo.cs
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.csproj.CoreCompileInputs.cache
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.dll
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\ref\Servidor_HTTP.dll
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.pdb
+C:\Users\219747\Documents\ADM\Projetos\Servidor_HTTP\obj\Debug\net5.0\Servidor_HTTP.genruntimeconfig.cache
